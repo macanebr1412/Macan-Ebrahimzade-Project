@@ -25,7 +25,7 @@ async function Page({ params }) {
     item;
 
   return (
-    <div className="md:grid md:grid-cols-2 md:items-center md:gap-20 md:border md:border-primary-800 md:px-8 md:py-3  md:mb-24">
+    <div className="md:grid md:grid-cols-2 md:items-center md:gap-20 md:border md:border-primary-800 md:px-8 md:py-3 mt-7  md:mb-24">
       <div className="aspect-video relative  lg:scale-[1.15] lg:-translate-x-3">
         <Image fill className="object-cover" src={image} alt={title} />
       </div>

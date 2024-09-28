@@ -42,7 +42,7 @@ function Page() {
       <div className="flex flex-col-reverse gap-4 w-full md:flex-row ">
         <div className="w-full md:w-2/3">
           <P className="leading-10 md:leading-6 lg:leading-8 xl:leading-10 lg:p-8">
-            This website has been created at the request of &apos;Just for
+            This website has been created at the request of &apos;Time for
             Fun&apos; company as part of my interview process for the position
             of a mid-level frontend developer. It has been developed using
             Next.js and features styling with Tailwind CSS and Shadcn. The site
