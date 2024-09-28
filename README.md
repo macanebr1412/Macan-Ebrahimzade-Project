@@ -1,5 +1,10 @@
-## Getting Started
+## Demo project developed and designed by Macan Ebrahimzade.
 
-First, install npm:
+# About this Project
 
-npm i
+# Getting Started
+
+1. npm i
+
+2. npm run dev
+
