@@ -1,8 +1,12 @@
-## Demo project developed and designed by Macan Ebrahimzade.
+# Demo project developed and designed by Macan Ebrahimzade.
 
-# About this Project
+## About this Project
 
-# Getting Started
+It has been developed using Next.js.
+Styling CSS by TailwindCSS and Shadcn.
+
+
+## Getting Started
 
 1. npm i
 
